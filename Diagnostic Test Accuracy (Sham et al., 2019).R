@@ -18,7 +18,7 @@ library(ellipse)
 library(mvmeta)
 library(metafor)
 library(readxl)
-DTA <- read_excel("E:/Med School/Research/Examples of sheets for R/DTA.xlsx")
+DTA <- read_excel("E:/Your directory/Examples of sheets for R/DTA.xlsx") #DTA is the name of the dataset
 View(DTA)
 
 #=======================================#
